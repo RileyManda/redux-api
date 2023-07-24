@@ -38,7 +38,7 @@
 
 # 📖 Redux-Sandbox <a name="about-project"></a>
 
-Redux-Sandbox is a simple application developed as a practice application to learn how to use redux to connect to an API.
+A simple react application that used redux toolkit to Connect an existing API via Redux and use the data to display something in a UI.
 
 
 
@@ -54,11 +54,19 @@ Redux-Sandbox is a simple application developed as a practice application to lea
   </ul>
 </details>
 
+<details>
+  <summary>State management</summary>
+  <ul>
+    <li><a href="https://redux-toolkit.js">Redux</a></li>
+  </ul>
+</details>
+
 
 ### Key Features <a name="key-features"></a>
 
 **React and Linters**- 
 **Redux,Store,Reducers,State**
+**Fetch Data from API**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
