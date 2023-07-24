@@ -61,6 +61,13 @@ A simple react application that uses redux toolkit and thunk to Connect to an ex
   </ul>
 </details>
 
+<details>
+  <summary>API</summary>
+  <ul>
+    <li><a href="https://randomuser.me/api/?results=5">Random User API</a></li>
+  </ul>
+</details>
+
 
 ### Key Features <a name="key-features"></a>
 
